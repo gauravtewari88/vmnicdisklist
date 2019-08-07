@@ -1,0 +1,1 @@
+Using this Script We can Get the List of VMs, Disks, NICs, Resource Groups in a Azure Subscription. It will group it by Resource Groups
